@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GHB7PHZt+mC4wKvQ7sba9WOR8gzPYihl3zpgCg7n85KB3y2hM/qse/nnE1hmqmfWZ72tSdUaQ0GHlyiFeODyFg==",
+  "dgSpecHash": "QYfd7HgWeW0lay5tR5rCeodla7LHv+RUgecCt2e+z2Ijop2fb8H+Sj64PAhyYs3dd5YQn8+VFMI8NPQF8HUPSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\DoAnCS_Demo1\\DoAnCS_Demo1.csproj",
+  "projectFilePath": "D:\\a_blazor_proj\\blazor_mobireview\\DoAnCS_Demo1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
