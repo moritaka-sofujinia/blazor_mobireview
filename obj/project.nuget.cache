@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< Updated upstream
   "dgSpecHash": "QYfd7HgWeW0lay5tR5rCeodla7LHv+RUgecCt2e+z2Ijop2fb8H+Sj64PAhyYs3dd5YQn8+VFMI8NPQF8HUPSA==",
   "success": true,
   "projectFilePath": "D:\\a_blazor_proj\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+=======
+  "dgSpecHash": "N956nUCbHV8VW3qHE2T+1v1PVEJzadJSf1GFI0Q/NhpdxrjMtfPyrvgN6YiGnZeZwOxFv7LgVMVYuQUVSDFzuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+>>>>>>> Stashed changes
   "expectedPackageFiles": [],
   "logs": []
 }
