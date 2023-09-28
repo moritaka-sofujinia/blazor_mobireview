@@ -197,6 +197,62 @@
       "PackagePath": "staticwebassets\\images\\News1\\news1-pic3.png"
     },
     {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News2\\news2-pic1.png",
+      "PackagePath": "staticwebassets\\images\\News2\\news2-pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News2\\news2-pic2.png",
+      "PackagePath": "staticwebassets\\images\\News2\\news2-pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic1.png",
+      "PackagePath": "staticwebassets\\images\\News3\\news3-pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic2.png",
+      "PackagePath": "staticwebassets\\images\\News3\\news3-pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic3.png",
+      "PackagePath": "staticwebassets\\images\\News3\\news3-pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic4.png",
+      "PackagePath": "staticwebassets\\images\\News3\\news3-pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic1.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic2.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic3.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic4.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic5.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic6.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic6.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic7.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic7.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News4\\news4-pic8.png",
+      "PackagePath": "staticwebassets\\images\\News4\\news4-pic8.png"
+    },
+    {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
       "PackagePath": "staticwebassets\\images\\ads-bg.png"
     },
