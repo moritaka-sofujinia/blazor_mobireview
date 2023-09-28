@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QYfd7HgWeW0lay5tR5rCeodla7LHv+RUgecCt2e+z2Ijop2fb8H+Sj64PAhyYs3dd5YQn8+VFMI8NPQF8HUPSA==",
+  "dgSpecHash": "N956nUCbHV8VW3qHE2T+1v1PVEJzadJSf1GFI0Q/NhpdxrjMtfPyrvgN6YiGnZeZwOxFv7LgVMVYuQUVSDFzuw==",
   "success": true,
-  "projectFilePath": "D:\\a_blazor_proj\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+  "projectFilePath": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
