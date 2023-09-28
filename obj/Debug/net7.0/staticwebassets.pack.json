@@ -185,6 +185,18 @@
       "PackagePath": "staticwebassets\\images\\.DS_Store"
     },
     {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News1\\news1-pic1.png",
+      "PackagePath": "staticwebassets\\images\\News1\\news1-pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News1\\news1-pic2.png",
+      "PackagePath": "staticwebassets\\images\\News1\\news1-pic2.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News1\\news1-pic3.png",
+      "PackagePath": "staticwebassets\\images\\News1\\news1-pic3.png"
+    },
+    {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
       "PackagePath": "staticwebassets\\images\\ads-bg.png"
     },
