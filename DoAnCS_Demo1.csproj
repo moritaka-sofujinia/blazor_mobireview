@@ -8,6 +8,25 @@
 
   <ItemGroup>
     <Folder Include="Data\Image\News1\" />
+    <Folder Include="wwwroot\images\News7\" />
+    <Folder Include="wwwroot\images\News6\" />
+    <Folder Include="wwwroot\images\News5\" />
+    <Folder Include="wwwroot\images\News4\" />
+    <Folder Include="wwwroot\images\News3\" />
+    <Folder Include="wwwroot\images\News2\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.11">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.11">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="SQLite" Version="3.13.0" />
   </ItemGroup>
 
 </Project>
