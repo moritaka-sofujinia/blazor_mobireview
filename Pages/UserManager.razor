@@ -1,0 +1,102 @@
+﻿@page "/UserManager"
+@using Microsoft.EntityFrameworkCore
+@using DoAnCS_Demo1.Data
+@inject IDbContextFactory<UserContext> UserContextFactory;
+
+<h2>UserManager</h2>
+@if (ShowCreate)
+{
+    <h3>Create a new user</h3>
+
+    <!-- Start username-->
+    <div class="row">
+        <label for="username" class="col-4 col-form-label">Username</label>
+        <div class="col-8">
+            <input id="username" name="username" type="text" class="form-control" @bind="@NewUser.username">
+        </div>
+    </div>
+    <!-- End username-->
+
+    <!-- Start password-->
+    <div class="row">
+        <label for="password" class="col-4 col-form-label">Password</label>
+        <div class="col-8">
+            <input id="password" name="password" type="password" class="form-control" @bind="@NewUser.password">
+        </div>
+    </div>
+    <!-- End password-->
+    
+    <!-- Start confirm password -->
+    <div class="row">
+        <label class="col-4 col-form-label">Confirm Password</label>
+        <div class="col-8">
+            <input id="confirm-password" name="confirm-password" type="password" class="form-control">
+        </div>
+    </div>
+    <!-- End confirm password -->
+    
+    <!-- Start full name -->
+    <div class="row">
+        <label for="name" class="col-4 col-form-label">Full Name</label>
+        <div class="col-8">
+            <input id="name" name="name" type="text" class="form-control" @bind="@NewUser.name">
+        </div>
+    </div>
+    <!-- End full name -->
+
+    <!-- Start email -->
+    <div class="row">
+        <label for="email" class="col-4 col-form-label">Email</label>
+        <div class="col-8">
+            <input id="email" name="email" type="text" class="form-control" @bind="@NewUser.email">
+        </div>
+    </div>
+    <!-- End email -->
+
+    <!-- Start submit button -->
+    <div class="form-group row">
+        <div class="offset-4 col-8">
+            <button name="submit" type="submit" class="btn btn-primary" @onclick="CreateNewUser">Submit</button>
+        </div>
+    </div>
+    <!-- End submit button -->
+}
+else
+{
+    <div class="form-group row">
+        <div class="offset-4 col-8">
+            <button name="submit" type="submit" class="btn btn-primary" @onclick="ShowCreateForm">Add a New User</button>
+        </div>
+    </div>
+
+    @if (@Users is not null && @Users.Count > 0)
+    {
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered table-light border-dark">
+                <thead>
+                    <tr>
+                        <th scope="col">Id</th>
+                        <th scope="col">Username</th>
+                        <th scope="col">Password</th>
+                        <th scope="col">Full Name</th>
+                        <th scope="col">Email</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var user in @Users)
+                    {
+                        <tr>
+                            <th scope="row">@user.Id</th>
+                            <td>@user.username</td>
+                            <td>@user.password</td>
+                            <td>@user.name</td>
+                            <td>@user.email</td>
+                        </tr>
+                    }
+
+                </tbody>
+            </table>
+        </div>
+    }
+}
