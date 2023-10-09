@@ -8,6 +8,13 @@
 
   <ItemGroup>
     <Folder Include="Data\Image\News1\" />
+    <Folder Include="wwwroot\images\News14\" />
+    <Folder Include="wwwroot\images\News13\" />
+    <Folder Include="wwwroot\images\News12\" />
+    <Folder Include="wwwroot\images\News11\" />
+    <Folder Include="wwwroot\images\News10\" />
+    <Folder Include="wwwroot\images\News9\" />
+    <Folder Include="wwwroot\images\News8\" />
     <Folder Include="wwwroot\images\News7\" />
     <Folder Include="wwwroot\images\News6\" />
     <Folder Include="wwwroot\images\News5\" />
