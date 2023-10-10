@@ -86,7 +86,7 @@ namespace DoAnCS_Demo1.Pages
                     _context?.Users.Update(UserToUpdate);
 
                 }
-                await _context.SaveChangesAsync();
+                //await _context.SaveChangesAsync();
             }
         }
     }

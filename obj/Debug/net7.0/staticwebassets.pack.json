@@ -185,6 +185,10 @@
       "PackagePath": "staticwebassets\\images\\.DS_Store"
     },
     {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_1.png",
+      "PackagePath": "staticwebassets\\images\\Ads\\ads_1.png"
+    },
+    {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News10\\news10-pic1.png",
       "PackagePath": "staticwebassets\\images\\News10\\news10-pic1.png"
     },

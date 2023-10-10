@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "stEBOuyKfuB1JHzyO3HpnZPAEOWtGGmTqLY3lSOmkZI=",
+  "Hash": "C7zswTgukkVPyn5quQG5g1dOA9Iv+ik9PSDQ6m2vZjo=",
   "Source": "DoAnCS_Demo1",
   "BasePath": "_content/DoAnCS_Demo1",
   "Mode": "Default",
@@ -814,6 +814,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\.DS_Store"
+    },
+    {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_1.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/Ads/ads_1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_1.png"
     },
     {
       "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
