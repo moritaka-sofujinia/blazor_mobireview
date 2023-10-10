@@ -9,141 +9,137 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DoAnCS_Demo1
 build_property.RootNamespace = DoAnCS_Demo1
-build_property.ProjectDir = C:\Users\Moritaka\Desktop\blazor_mobireview\
+build_property.ProjectDir = D:\a_blazor_proj\blazor_mobireview\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Moritaka\Desktop\blazor_mobireview
+build_property.MSBuildProjectDirectory = D:\a_blazor_proj\blazor_mobireview
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/App.razor]
+[D:/a_blazor_proj/blazor_mobireview/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News1.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News1.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News10.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News10.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News11.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News11.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czExLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News12.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News12.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News13.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News13.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News14.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News14.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News2.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News2.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News3.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News3.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News4.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News4.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News5.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News5.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News6.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News6.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czYucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News7.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News7.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News8.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News8.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News9.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News9.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News_Template.razor]
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News_Template.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3c19UZW1wbGF0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/About.razor]
+[D:/a_blazor_proj/blazor_mobireview/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Counter.razor]
+[D:/a_blazor_proj/blazor_mobireview/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/FetchData.razor]
+[D:/a_blazor_proj/blazor_mobireview/Pages/FetchData.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Index.razor]
+[D:/a_blazor_proj/blazor_mobireview/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Login.razor]
+[D:/a_blazor_proj/blazor_mobireview/Pages/Login.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/LoginOld.razor]
+[D:/a_blazor_proj/blazor_mobireview/Pages/LoginOld.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5PbGQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-<<<<<<< HEAD
 [D:/a_blazor_proj/blazor_mobireview/Pages/UserManager.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlck1hbmFnZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/a_blazor_proj/blazor_mobireview/Shared/EmptyLayout.razor]
-=======
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/EmptyLayout.razor]
->>>>>>> main
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/NewsLayout.razor]
+[D:/a_blazor_proj/blazor_mobireview/Shared/NewsLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5ld3NMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/SurveyPrompt.razor]
+[D:/a_blazor_proj/blazor_mobireview/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/_Imports.razor]
+[D:/a_blazor_proj/blazor_mobireview/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/MainLayout.razor]
+[D:/a_blazor_proj/blazor_mobireview/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ss3tqbduvj
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/NavMenu.razor]
+[D:/a_blazor_proj/blazor_mobireview/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-y4z2efv0s8
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/_Layout.razor]
+[D:/a_blazor_proj/blazor_mobireview/Shared/_Layout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXF9MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-99e89zjrdf
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Error.cshtml]
+[D:/a_blazor_proj/blazor_mobireview/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/_Host.cshtml]
+[D:/a_blazor_proj/blazor_mobireview/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

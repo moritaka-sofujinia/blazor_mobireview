@@ -1352,19 +1352,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Moritaka\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+      "projectUniqueName": "D:\\a_blazor_proj\\blazor_mobireview\\DoAnCS_Demo1.csproj",
       "projectName": "DoAnCS_Demo1",
-      "projectPath": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj",
-      "packagesPath": "C:\\Users\\Moritaka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\obj\\",
+      "projectPath": "D:\\a_blazor_proj\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "D:\\a_blazor_proj\\blazor_mobireview\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Moritaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1430,7 +1435,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
