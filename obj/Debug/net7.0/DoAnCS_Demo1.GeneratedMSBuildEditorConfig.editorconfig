@@ -24,6 +24,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News10.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News11.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czExLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News12.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News13.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czEzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News14.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/a_blazor_proj/blazor_mobireview/Newspage/News2.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -46,6 +66,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/a_blazor_proj/blazor_mobireview/Newspage/News7.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News8.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Newspage/News9.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/a_blazor_proj/blazor_mobireview/Newspage/News_Template.razor]
@@ -74,6 +102,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/a_blazor_proj/blazor_mobireview/Pages/LoginOld.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5PbGQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/a_blazor_proj/blazor_mobireview/Pages/UserManager.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlck1hbmFnZXIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/a_blazor_proj/blazor_mobireview/Shared/EmptyLayout.razor]
