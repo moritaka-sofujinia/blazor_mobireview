@@ -92,6 +92,12 @@ else
                             <td>@user.password</td>
                             <td>@user.name</td>
                             <td>@user.email</td>
+                            <td>
+                                <button name="submit" type="submit" class="btn btn-primary" @onclick="() => ShowEditForm(user)">
+                                    Edit
+                                </button>
+                            </td>
+                            <td></td>
                         </tr>
                     }
 
