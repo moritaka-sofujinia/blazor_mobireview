@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "C7zswTgukkVPyn5quQG5g1dOA9Iv+ik9PSDQ6m2vZjo=",
+  "Hash": "aJhUSv5ntUC+agYXHXKba/DylX0P4uC3/+GP8nax7Cs=",
   "Source": "DoAnCS_Demo1",
   "BasePath": "_content/DoAnCS_Demo1",
   "Mode": "Default",
@@ -833,6 +833,40 @@
       "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_1.png"
     },
     {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_2.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/Ads/ads_2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_2.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_3.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/Ads/ads_3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_3.png"
+    },
+    {
       "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
@@ -1377,6 +1411,23 @@
       "OriginalItemSpec": "wwwroot\\images\\News13\\news13-pic3.png"
     },
     {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News13\\news13-small-90x90.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News13/news13-small-90x90.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News13\\news13-small-90x90.png"
+    },
+    {
       "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News14\\news14-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
@@ -1426,6 +1477,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\News14\\news14-pic3.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News14\\news14-small-90x90.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News14/news14-small-90x90.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News14\\news14-small-90x90.png"
     },
     {
       "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News2\\news2-pic1.png",
