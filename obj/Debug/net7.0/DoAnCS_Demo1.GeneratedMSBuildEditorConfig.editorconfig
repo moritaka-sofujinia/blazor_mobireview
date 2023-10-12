@@ -48,8 +48,32 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE1LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News16.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE2LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News17.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News18.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News19.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News2.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News20.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czIwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News21.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czIxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News3.razor]
@@ -106,6 +130,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Home2.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZTIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Home3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZTMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Index.razor]

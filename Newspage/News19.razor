@@ -1,0 +1,72 @@
+﻿@page "/News19"
+@layout NewsLayout
+
+<!-- Tiêu đề bài viết -->
+<h1>iOS 17.0.3: iPhone hết nóng nhưng hiệu năng có bị giảm sút?</h1>
+<p><strong>Tác giả:</strong> Tuấn Lê - <strong>Ngày:</strong> 05/10/2023</p>
+
+
+<h3 class="paragraph">Hôm nay Apple đã chính thức tung bản cập nhật iOS 17.0.3 để xử lý tình trạng quá nhiệt trên dòng iPhone 15 Pro và 15 Pro Max.</h3>
+
+
+<!-- Nội dung bài viết -->
+<p class="paragraph">Sau một loạt than phiền của người dùng về hiện tượng quá nhiệt trên phiên bản iPhone mới, Apple ngày hôm nay đã chính thức tung ra bản cập nhật mới để khắc phục. Trước đó, Apple cũng xác nhận sản phẩm mới có hiện tượng này, tuy nhiên là do vấn đề ở phần mềm chứ không phải phần cứng hay là lỗi thiết kế.</p>
+
+
+<img src="./images/News19/news19-pic1.png" 
+     alt="Hình ảnh mô tả" 
+     class="small-image"/>
+<figcaption class="caption">iOS 17.0.3 chính thức được Apple tung ra ngày hôm nay.</figcaption>
+
+<!---------------------------------------------------------------->
+
+<p class="paragraph">Bên cạnh đó, cũng có một số đồn đoán cho rằng nếu muốn giải quyết tình trạng quá nhiệt này Apple có thể phải bóp hiệu năng của chip A17 Pro lại, và điều này có thể khiến một số người dùng không hài lòng. Vậy Apple có thật sự bóp hiệu năng để giảm bớt độ nóng của máy hay không? Tôi đã thử tải về bản cập nhật mới sáng nay và đã làm một vài bài kiểm tra như sau.</p>
+
+<img src="./images/News19/news19-pic2.png"
+     alt="Hình ảnh mô tả"
+     class="small-image" />
+<figcaption class="caption">Nguồn: 9to5Mac.</figcaption>
+
+<!---------------------------------------------------------------->
+
+<p class="paragraph">Để phần so sánh được trực quan và công tâm hơn, tôi có tham khảo thử kết quả GeekBench mà trang 9to5Mac ghi nhận, phiên bản iOS 17.0.1 và 17.0.2 đang có điểm số đơn nhân là 2914 và đa nhân là 7199.</p>
+<p class="paragraph">Còn ở phiên bản iOS 17.0.3 khi vừa mới nâng cấp, điểm số mà tôi có được khi thử với GeekBench là 2856 cho đơn nhân và 6983 cho đa nhân:</p>
+
+<img src="./images/News19/news19-pic3.png"
+     alt="Hình ảnh mô tả"
+     class="small-image" />
+<figcaption class="caption">Hơi bất ngờ là điểm số lại thấp hơn hẳn so với iOS 17.0.2, Apple đã bóp hiệu năng chăng?</figcaption>
+
+<!---------------------------------------------------------------->
+
+<p class="paragraph">Tuy nhiên, tôi đã thử chờ thêm 15 phút cho máy nguội hẳn (vì sau khi cập nhật khả năng máy vẫn còn nóng) thì kết quả giờ đã khác:</p>
+
+<img src="./images/News19/news19-pic4.png"
+     alt="Hình ảnh mô tả"
+     class="small-image" />
+<figcaption class="caption">Sau khi trở về nhiệt độ ổn định, máy đã cho kết quả đáng ngạc nhiên.</figcaption>
+
+<!---------------------------------------------------------------->
+
+<p class="paragraph">Có thể thấy điểm số giờ đã lên 2952 cho đơn nhân và 7340 cho đa nhân, tức còn cao hơn ghi nhận ở phiên bản trước đây. Cần lưu ý là điểm số có thể chênh lệch một chút tùy thuộc vào từng điều kiện và nhiệt độ của máy, nhiệt độ môi trường xung quanh, cho nên khả năng cao thông tin Apple bóp hiệu năng của chip A17 Pro là không có. </p>
+
+<img src="./images/News19/news19-pic5.png"
+     alt="Hình ảnh mô tả"
+     class="small-image" />
+<figcaption class="caption">Kể từ khi ra mắt, iPhone 15 Pro/Pro Max vướng phải nhiều tranh cãi, từ câu chuyện mạ viền titanium, lượng titanium không đủ nhiều như quảng cáo, hay như giờ đây là hiện tượng quá nhiệt. Tất cả những vấn đề này hiện đã và đang được giải thích và xử lý triệt để giúp cho người dùng an tâm hơn trong quá trình sử dụng.</figcaption>
+
+<!---------------------------------------------------------------->
+
+<p class="paragraph">Vậy hiện tượng quá nhiệt có còn tồn tại không? Từ lúc cập nhật phiên bản này và sử dụng được nửa ngày, bản thân người viết chưa nhận thấy máy nóng lên quá bất thường như trước đây, ứng dụng như Instagram - một trong những nguyên nhân là app thứ 3 gây nóng máy rất nhanh cũng đã được fix với bản cập nhật mới. </p>
+<p class="paragraph">Liệu rằng còn ứng dụng nào khác gây nên hiện tượng nóng máy này? Chúng ta cần thêm thời gian sử dụng và tự đánh giá, nhưng việc bóp hiệu năng của con chip có lẽ là không có rồi đấy.</p>
+
+
+<!-- Chân bài viết -->
+<hr class="black-line">
+<h4>Bài viết tiếp theo:</h4>
+<a href=" ./NextArticle" class="link">=> iPhone 15 bị lỗi quá nhiệt trên diện rộng, chuyên gia nói ‘không thể khắc phục được’ trừ khi Apple chịu làm 1 điều</a>
+
+
+@code {
+
+}
