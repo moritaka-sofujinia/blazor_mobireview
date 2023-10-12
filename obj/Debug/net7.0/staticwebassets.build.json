@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YktLvKwilBN6NAA1ZedDfXEP7HPpSvR/zzoVXLnMF7Q=",
+  "Hash": "MlEgTVXYb7tGYsCW8jKwQvAUlvTx6+JoHqu8S+7CB0g=",
   "Source": "DoAnCS_Demo1",
   "BasePath": "_content/DoAnCS_Demo1",
   "Mode": "Default",
@@ -865,6 +865,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_3.png"
+    },
+    {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\deal.gif",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/Ads/deal.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ads\\deal.gif"
+    },
+    {
+      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\dog-cute.gif",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/Ads/dog-cute.gif",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Ads\\dog-cute.gif"
     },
     {
       "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",

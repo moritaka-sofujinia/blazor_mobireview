@@ -197,6 +197,14 @@
       "PackagePath": "staticwebassets\\images\\Ads\\ads_3.png"
     },
     {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\deal.gif",
+      "PackagePath": "staticwebassets\\images\\Ads\\deal.gif"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\dog-cute.gif",
+      "PackagePath": "staticwebassets\\images\\Ads\\dog-cute.gif"
+    },
+    {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News10\\news10-pic1.png",
       "PackagePath": "staticwebassets\\images\\News10\\news10-pic1.png"
     },
