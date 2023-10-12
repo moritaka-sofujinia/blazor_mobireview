@@ -281,6 +281,38 @@
       "PackagePath": "staticwebassets\\images\\News14\\news14-small-90x90.png"
     },
     {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic1.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic2.gif",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic2.gif"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic3.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic3.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic4.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic4.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic5.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic5.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic6.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic6.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic7.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic7.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic8.png",
+      "PackagePath": "staticwebassets\\images\\News15\\news15-pic8.png"
+    },
+    {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News1\\news1-pic1.png",
       "PackagePath": "staticwebassets\\images\\News1\\news1-pic1.png"
     },
@@ -535,6 +567,10 @@
     {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1 - Copy.png",
       "PackagePath": "staticwebassets\\images\\version\\market-logo1 - Copy.png"
+    },
+    {
+      "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.gif",
+      "PackagePath": "staticwebassets\\images\\version\\market-logo1.gif"
     },
     {
       "Id": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.png",

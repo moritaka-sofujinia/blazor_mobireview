@@ -44,6 +44,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News15.razor]
+build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czE1LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Newspage/News2.razor]
 build_metadata.AdditionalFiles.TargetPath = TmV3c3BhZ2VcTmV3czIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -84,6 +88,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/BaoDuong.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFvRHVvbmcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -92,8 +100,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Home1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZTEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Home2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZTIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/Index.razor]
@@ -108,8 +120,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5PbGQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/PhoneNgon.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGhvbmVOZ29uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/UserManager.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlck1hbmFnZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Pages/VeChungToi.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVDaHVuZ1RvaS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/EmptyLayout.razor]
