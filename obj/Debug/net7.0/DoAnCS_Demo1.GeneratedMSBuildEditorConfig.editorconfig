@@ -160,12 +160,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVmVDaHVuZ1RvaS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/EmptyLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/AdsRegLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkc1JlZ0xheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/HomeLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhvbWVMYXlvdXQucmF6b3I=
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/AdsRegPostLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFkc1JlZ1Bvc3RMYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/EmptyLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEVtcHR5TGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/NewsLayout.razor]
@@ -174,10 +178,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/Moritaka/Desktop/blazor_mobireview/Shared/VeChungToiLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFZlQ2h1bmdUb2lMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Moritaka/Desktop/blazor_mobireview/_Imports.razor]
