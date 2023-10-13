@@ -124,12 +124,12 @@ h5 {
 
 .banner-spot {
     padding: 0 !important;
-    border: 1px solid #e2e2e2;
+    border: 1px solid;
 }
 
 .page-wrapper .banner-spot {
     padding: 1rem !important;
-    border: 1px solid #e2e2e2;
+    border: 1px solid;
 }
 
 .blog-top .fa {
