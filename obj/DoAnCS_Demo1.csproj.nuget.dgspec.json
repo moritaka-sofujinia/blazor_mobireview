@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj": {}
+    "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj": {
+    "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+        "projectUniqueName": "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj",
         "projectName": "DoAnCS_Demo1",
-        "projectPath": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj",
-        "packagesPath": "C:\\Users\\Moritaka\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\obj\\",
+        "projectPath": "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\SomethinginMyMid\\blazor_mobireview\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Moritaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -59,6 +59,10 @@
             "SQLite": {
               "target": "Package",
               "version": "[3.13.0, )"
+            },
+            "System.Data.SQLite": {
+              "target": "Package",
+              "version": "[1.0.118, )"
             }
           },
           "imports": [
@@ -80,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
