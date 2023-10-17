@@ -13,6 +13,7 @@ namespace DoAnCS_Demo1.Data
         {
             optionsBuilder.UseSqlite(Configuration.GetConnectionString("DataDB"));
         }
+
         public DbSet<User> Users { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

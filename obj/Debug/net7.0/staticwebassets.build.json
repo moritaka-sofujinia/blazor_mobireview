@@ -1,10 +1,6 @@
 {
   "Version": 1,
-<<<<<<< HEAD
-  "Hash": "MKUJb2/zMjLKKZMwUwGxmZss1iBHEJ80atYe9sNLtlQ=",
-=======
-  "Hash": "MlEgTVXYb7tGYsCW8jKwQvAUlvTx6+JoHqu8S+7CB0g=",
->>>>>>> main
+  "Hash": "Usk80c/M95JttMw3x9dETtz2w6VrKwInClP90brZuOE=",
   "Source": "DoAnCS_Demo1",
   "BasePath": "_content/DoAnCS_Demo1",
   "Mode": "Default",
@@ -410,23 +406,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
-    },
-    {
-      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\css\\New_one.css",
-      "SourceId": "DoAnCS_Demo1",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
-      "BasePath": "_content/DoAnCS_Demo1",
-      "RelativePath": "css/New_one.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\New_one.css"
     },
     {
       "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
@@ -837,13 +816,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_1.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
-=======
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_2.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_2.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/Ads/ads_2.png",
       "AssetKind": "All",
@@ -857,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_2.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_3.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\Ads\\ads_3.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/Ads/ads_3.png",
       "AssetKind": "All",
@@ -874,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ads\\ads_3.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\deal.gif",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\Ads\\deal.gif",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/Ads/deal.gif",
       "AssetKind": "All",
@@ -891,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\images\\Ads\\deal.gif"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\Ads\\dog-cute.gif",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\Ads\\dog-cute.gif",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/Ads/dog-cute.gif",
       "AssetKind": "All",
@@ -908,8 +884,7 @@
       "OriginalItemSpec": "wwwroot\\images\\Ads\\dog-cute.gif"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
->>>>>>> main
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\ads-bg.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
@@ -1453,13 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News13\\news13-pic3.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News14\\news14-pic1.png",
-=======
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News13\\news13-small-90x90.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News13\\news13-small-90x90.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News13/news13-small-90x90.png",
       "AssetKind": "All",
@@ -1473,8 +1445,7 @@
       "OriginalItemSpec": "wwwroot\\images\\News13\\news13-small-90x90.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News14\\news14-pic1.png",
->>>>>>> main
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News14\\news14-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
@@ -1525,13 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News14\\news14-pic3.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News2\\news2-pic1.png",
-=======
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News14\\news14-small-90x90.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News14\\news14-small-90x90.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News14/news14-small-90x90.png",
       "AssetKind": "All",
@@ -1545,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News14\\news14-small-90x90.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic1.png",
       "AssetKind": "All",
@@ -1562,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic2.gif",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic2.gif",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic2.gif",
       "AssetKind": "All",
@@ -1579,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic2.gif"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic3.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic3.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic3.png",
       "AssetKind": "All",
@@ -1596,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic3.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic4.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic4.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic4.png",
       "AssetKind": "All",
@@ -1613,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic4.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic5.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic5.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic5.png",
       "AssetKind": "All",
@@ -1630,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic5.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic6.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic6.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic6.png",
       "AssetKind": "All",
@@ -1647,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic6.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic7.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic7.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic7.png",
       "AssetKind": "All",
@@ -1664,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic7.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic8.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News15\\news15-pic8.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News15/news15-pic8.png",
       "AssetKind": "All",
@@ -1681,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News15\\news15-pic8.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News16\\news16-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News16\\news16-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News16/news16-pic1.png",
       "AssetKind": "All",
@@ -1698,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News16\\news16-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News17\\news17-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News17\\news17-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News17/news17-pic1.png",
       "AssetKind": "All",
@@ -1715,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News17\\news17-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News18\\news18-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News18\\news18-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News18/news18-pic1.png",
       "AssetKind": "All",
@@ -1732,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News18\\news18-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News19/news19-pic1.png",
       "AssetKind": "All",
@@ -1749,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News19\\news19-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic2.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic2.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News19/news19-pic2.png",
       "AssetKind": "All",
@@ -1766,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News19\\news19-pic2.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic3.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic3.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News19/news19-pic3.png",
       "AssetKind": "All",
@@ -1783,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News19\\news19-pic3.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic4.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic4.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News19/news19-pic4.png",
       "AssetKind": "All",
@@ -1800,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News19\\news19-pic4.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic5.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News19\\news19-pic5.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News19/news19-pic5.png",
       "AssetKind": "All",
@@ -1817,8 +1785,7 @@
       "OriginalItemSpec": "wwwroot\\images\\News19\\news19-pic5.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News2\\news2-pic1.png",
->>>>>>> main
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News2\\news2-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
@@ -1852,13 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News2\\news2-pic2.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic1.png",
-=======
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News20\\news20-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News20\\news20-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News20/news20-pic1.png",
       "AssetKind": "All",
@@ -1872,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News20\\news20-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News21\\news21-pic1.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News21\\news21-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News21/news21-pic1.png",
       "AssetKind": "All",
@@ -1889,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News21\\news21-pic1.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News21\\news21-pic2.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News21\\news21-pic2.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News21/news21-pic2.png",
       "AssetKind": "All",
@@ -1906,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\images\\News21\\news21-pic2.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News21\\news21-pic3.png",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News21\\news21-pic3.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/News21/news21-pic3.png",
       "AssetKind": "All",
@@ -1923,8 +1887,347 @@
       "OriginalItemSpec": "wwwroot\\images\\News21\\news21-pic3.png"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic1.png",
->>>>>>> main
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News22\\news22-pic1.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News22/news22-pic1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News22\\news22-pic1.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News22\\news22-pic2.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News22/news22-pic2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News22\\news22-pic2.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News22\\news22-pic3.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News22/news22-pic3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News22\\news22-pic3.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News22\\news22-pic4.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News22/news22-pic4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News22\\news22-pic4.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News23\\news23-pic1.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News23/news23-pic1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News23\\news23-pic1.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News23\\news23-pic2.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News23/news23-pic2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News23\\news23-pic2.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic1.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic1.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic2.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic2.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic3.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic3.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic4.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic4.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic5.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic5.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic6.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic6.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic6.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic7.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic7.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic7.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic8.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic8.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic8.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News24\\news24-pic9.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News24/news24-pic9.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News24\\news24-pic9.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News25\\news25-pic1.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News25/news25-pic1.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News25\\news25-pic1.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News25\\news25-pic2.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News25/news25-pic2.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News25\\news25-pic2.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News25\\news25-pic3.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News25/news25-pic3.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News25\\news25-pic3.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News25\\news25-pic4.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News25/news25-pic4.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News25\\news25-pic4.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News25\\news25-pic5.png",
+      "SourceId": "DoAnCS_Demo1",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
+      "BasePath": "_content/DoAnCS_Demo1",
+      "RelativePath": "images/News25/news25-pic5.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\News25\\news25-pic5.png"
+    },
+    {
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\News3\\news3-pic1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
@@ -2706,13 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\images\\version\\market-logo1 - Copy.png"
     },
     {
-<<<<<<< HEAD
-      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.png",
-=======
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.gif",
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.gif",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\",
+      "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
       "BasePath": "_content/DoAnCS_Demo1",
       "RelativePath": "images/version/market-logo1.gif",
       "AssetKind": "All",
@@ -2726,8 +3026,7 @@
       "OriginalItemSpec": "wwwroot\\images\\version\\market-logo1.gif"
     },
     {
-      "Identity": "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.png",
->>>>>>> main
+      "Identity": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\images\\version\\market-logo1.png",
       "SourceId": "DoAnCS_Demo1",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\a_blazor_proj\\blazor_mobireview\\wwwroot\\",
