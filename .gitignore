@@ -13,3 +13,7 @@ packages/*
 # (and the packages folder if the lines above for that has been uncommented)
 !**/packages/build/
 !packages/build/
+
+# Ignore obj and bin folders
+obj/
+bin/
