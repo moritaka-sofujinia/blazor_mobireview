@@ -1,5 +1,7 @@
 ﻿using DoAnCS_Demo1.Data;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.JSInterop;
+
 namespace DoAnCS_Demo1.Pages
 {
     public partial class UserManager
@@ -41,6 +43,8 @@ namespace DoAnCS_Demo1.Pages
             }
 
             ShowCreate = false;
+
+            RefreshPage();
         }
 
 
@@ -66,11 +70,21 @@ namespace DoAnCS_Demo1.Pages
         public int? EditingID { get; set; }
         public User? UserToUpdate { get; set; }
 
-        public async Task ShowEditForm(User user)
-        {
-            _context ??= await UserContextFactory.CreateDbContextAsync();
+        //public async Task ShowEditForm(User user)
+        //{
+        //    _context ??= await UserContextFactory.CreateDbContextAsync();
 
-            UserToUpdate = _context.Users.FirstOrDefault(x => x.Id == user.Id);
+        //    UserToUpdate = _context.Users.FirstOrDefault(x => x.Id == user.Id);
+        //    EditingID = user.Id;
+        //    EditRecord = true;
+        //}
+
+        private async Task ShowEditForm(User user)
+        {
+            _context = await UserContextFactory.CreateDbContextAsync();
+
+            // Here, you should rely on dependency injection for the DbContext.
+            UserToUpdate = _context.Users.Where(x => x.Id == user.Id).FirstOrDefault();
             EditingID = user.Id;
             EditRecord = true;
         }
@@ -86,8 +100,17 @@ namespace DoAnCS_Demo1.Pages
                     _context?.Users.Update(UserToUpdate);
 
                 }
-                //await _context.SaveChangesAsync();
+                await _context.SaveChangesAsync();
+                await _context.DisposeAsync();
+
+                RefreshPage();
             }
+        }
+
+        private void RefreshPage()
+        {
+            // Use JavaScript to refresh the page.
+            JSRuntime.InvokeVoidAsync("location.reload");
         }
     }
 }
