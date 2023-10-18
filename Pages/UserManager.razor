@@ -2,7 +2,7 @@
 @using Microsoft.EntityFrameworkCore
 @using DoAnCS_Demo1.Data
 @inject IDbContextFactory<UserContext> UserContextFactory;
-
+@inject IJSRuntime JSRuntime
 <h2>UserManager</h2>
 @if (ShowCreate)
 {
@@ -86,19 +86,54 @@ else
 
                     @foreach (var user in @Users)
                     {
-                        <tr>
-                            <th scope="row">@user.Id</th>
-                            <td>@user.username</td>
-                            <td>@user.password</td>
-                            <td>@user.name</td>
-                            <td>@user.email</td>
-                            <td>
-                                <button name="submit" type="submit" class="btn btn-primary" @onclick="() => ShowEditForm(user)">
-                                    Edit
-                                </button>
-                            </td>
-                            <td></td>
-                        </tr>
+                        @if (!EditRecord)
+                        {
+                            <tr>
+                                <th scope="row">@user.Id</th>
+                                <td>@user.username</td>
+                                <td>@user.password</td>
+                                <td>@user.name</td>
+                                <td>@user.email</td>
+                                <td>
+                                    <button name="submit" type="submit" class="btn btn-primary" @onclick="() => ShowEditForm(user)">
+                                        Edit
+                                    </button>
+                                </td>
+                                <td></td>
+                            </tr>
+                        }
+                        else
+                        {
+                            if (UserToUpdate is not null && UserToUpdate.Id == user.Id)
+                            {
+                                <tr>
+                                    <th scope="row">@user.Id</th>
+                                    <td><input id="username" name="username" type="text" class="form-control" @bind="@UserToUpdate.username" /></td>
+                                    <td><input id="password" name="password" type="text" class="form-control" @bind="@UserToUpdate.password" /></td>
+                                    <td><input id="name" name="name" type="text" class="form-control" @bind="@UserToUpdate.name" /></td>
+                                    <td><input id="email" name="email" type="text" class="form-control" @bind="@UserToUpdate.email" /></td>
+                                    <td><button name="submit" type="submit" class="btn btn-primary" @onclick="@UpdateUser">Save</button></td>
+                                    <td></td>
+                                </tr>
+
+                            }
+                            else
+                            {
+                                <tr>
+                                    <th scope="row">@user.Id</th>
+                                    <td>@user.username</td>
+                                    <td>@user.password</td>
+                                    <td>@user.name</td>
+                                    <td>@user.email</td>
+                                    <td>
+                                        <button name="submit" type="submit" class="btn btn-primary" @onclick="() => ShowEditForm(user)">
+                                            Edit
+                                        </button>
+                                    </td>
+                                    <td></td>
+                                </tr>
+                            }
+                        }
                     }
 
                 </tbody>
