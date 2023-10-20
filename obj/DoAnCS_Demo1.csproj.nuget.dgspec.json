@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< Updated upstream
     "C:\\Users\\Moritaka\\Desktop\\blazor_mobireview\\DoAnCS_Demo1.csproj": {}
   },
   "projects": {
@@ -15,6 +16,22 @@
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Moritaka\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+    "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj": {}
+  },
+  "projects": {
+    "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+        "projectName": "DoAnCS_Demo1",
+        "projectPath": "E:\\SomethinginMyMid\\blazor_mobireview\\DoAnCS_Demo1.csproj",
+        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
+        "outputPath": "E:\\SomethinginMyMid\\blazor_mobireview\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> Stashed changes
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

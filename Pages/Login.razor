@@ -1,14 +1,9 @@
 ﻿@page "/Login"
 
 @layout AdsOnlyLayout
-
-@* @layout NewsLayout *@
 @inject Microsoft.AspNetCore.Components.NavigationManager NavigationManager
-
-
+@inject IJSRuntime JSRuntime
 @using DoAnCS_Demo1.Data
-
-
 <main>
     <div class="container pt-5">
         <h1 class="text-center">Login</h1>
@@ -18,27 +13,27 @@
                 <div class="mx-auto">
                     <div class="card card-body">
 
-                        <form id="submitForm" action="Login" method="post" data-parsley-validate="" data-parsley-errors-messages-disabled="true" novalidate="" _lpchecked="1">
+                        <form id="submitForm"  data-parsley-validate="" data-parsley-errors-messages-disabled="true" novalidate="" _lpchecked="1">
                             <input type="hidden" name="_csrf" value="7635eb83-1f95-4b32-8788-abec2724a9a4">
                             <div class="form-group required">
                                 <label for="username">Username / Email</label>
-                                <input type="text" class="form-control text-lowercase" id="username" required="" name="username" value="">
+                                <input type="text" class="form-control text-lowercase" id="username" required @bind="user.username">
                             </div>
                             <div class="form-group required">
                                 <label class="" for="password">
                                     Password
                                 </label>
-                                <input type="password" class="form-control" required="" id="password" name="password" value="">
+                                <input type="password" class="form-control" required @bind="user.password">
                                 <a class="ml-auto border-link small-xl" href="/forget-password">Forget?</a>
                             </div>
                             <div class="form-group mt-4 mb-4">
                                 <div class="custom-control custom-checkbox">
-                                    <input type="checkbox" class="custom-control-input" id="remember-me" name="remember-me" data-parsley-multiple="remember-me">
+                                    <input type="checkbox" class="custom-control-input" id="remember-me" @* @bind="user.rememberMe" *@>
                                     <label class="custom-control-label" for="remember-me">Remember me?</label>
                                 </div>
                             </div>
                             <div class="form-group pt-1">
-                                <button class="btn btn-primary btn-block"  @onclick="Loginpage" type="submit">Log In</button>
+                                <button class="btn btn-primary btn-block" type="submit" @onclick="Loginpage" >Log In</button>
                             </div>
                         </form>
                         <p class="small-xl pt-3 text-center">
@@ -55,16 +50,22 @@
 @code {
     private User user = new User();
     private string errorMessage = "";
-    private IConfiguration Configuration;
+
     private async Task Loginpage()
     {
         try
         {
-            UserContext userContext = new UserContext(Configuration);
-            var foundUser =  userContext.Users.SingleOrDefault(n => n.username == user.username && n.password == user.password) ;
+            SQLiteHandler dbHandler = SQLiteHandler.Instance;
+            dbHandler.OpenConnection();
 
-            if (foundUser != null)
+            // You should hash the password for security, but for this example, we'll compare plaintext passwords.
+            var foundUser = dbHandler.GetASingleRowQuery($"SELECT * FROM User WHERE username = '{user.username}' AND password = '{user.password}'");
+
+            dbHandler.CloseConnection();
+
+            if (foundUser.Count > 0)
             {
+                // Redirect to the desired page
                 NavigationManager.NavigateTo("Home1");
             }
             else
@@ -79,6 +80,7 @@
             Console.WriteLine(ex.Message);
         }
     }
+
 }
 
 @if (!string.IsNullOrEmpty(errorMessage))
@@ -87,4 +89,3 @@
         @errorMessage
     </div>
 }
-
