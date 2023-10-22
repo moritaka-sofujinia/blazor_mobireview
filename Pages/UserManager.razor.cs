@@ -19,6 +19,12 @@ namespace DoAnCS_Demo1.Pages
             NewUser = new User();
             ShowCreate = true;
         }
+
+        public void CancelCreate()
+        {
+            NewUser = null;
+            ShowCreate = false;
+        }
         //public async Task CreateNewUser()
         //{
         //    _context ??= await UserContextFactory.CreateDbContextAsync();
@@ -43,6 +49,17 @@ namespace DoAnCS_Demo1.Pages
             }
 
             ShowCreate = false;
+
+            // alert add complete
+            try
+            {
+                await JSRuntime.InvokeVoidAsync("alert", "Add complete");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e);
+                await JSRuntime.InvokeVoidAsync("alert", "Add fail");
+            }
 
             RefreshPage();
         }
@@ -107,10 +124,28 @@ namespace DoAnCS_Demo1.Pages
             }
         }
 
+        // end edit/update
+
         private void RefreshPage()
         {
             // Use JavaScript to refresh the page.
             JSRuntime.InvokeVoidAsync("location.reload");
+        }
+
+
+        //Start delete
+        public async Task DeleteUser(User user)
+        {
+            _context ??= await UserContextFactory.CreateDbContextAsync();
+
+            if (_context is not null)
+            {
+                _context.Users.Remove(user);
+                await _context.SaveChangesAsync();
+                await _context.DisposeAsync();
+
+                RefreshPage();
+            }
         }
     }
 }
