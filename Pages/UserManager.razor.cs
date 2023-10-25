@@ -108,6 +108,9 @@ namespace DoAnCS_Demo1.Pages
 
         public async Task UpdateUser()
         {
+
+
+
             EditRecord = false;
             _context ??= await UserContextFactory.CreateDbContextAsync();
             if (_context is not null)
@@ -138,14 +141,22 @@ namespace DoAnCS_Demo1.Pages
         {
             _context ??= await UserContextFactory.CreateDbContextAsync();
 
+            // alert to confirm delete
+            if (!await JSRuntime.InvokeAsync<bool>("confirm", $"Are you sure you want to delete {user.username}?"))
+            {
+                return;
+            }
+
             if (_context is not null)
             {
-                _context.Users.Remove(user);
+                if (user is not null)
+                    _context.Users.Remove(user);
                 await _context.SaveChangesAsync();
-                await _context.DisposeAsync();
 
-                RefreshPage();
+                
             }
+            await ShowUsers();
+            RefreshPage();
         }
     }
 }
